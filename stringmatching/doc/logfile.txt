@@ -1,0 +1,32 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_10\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\qwerty\Google Drive\second summer class\2215\stringmatching
+-d
+C:\Users\qwerty\Google Drive\second summer class\2215\stringmatching\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\qwerty\Google Drive\second summer class\2215\stringmatching\stringmatching.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\qwerty\Google Drive\second summer class\2215\stringmatching\stringmatching.java...
+C:\Users\qwerty\Google Drive\second summer class\2215\stringmatching\stringmatching.java:28: error: ';' expected
+       userIdNumber += (int)word	charAt(j);
+                                ^
+1 error
